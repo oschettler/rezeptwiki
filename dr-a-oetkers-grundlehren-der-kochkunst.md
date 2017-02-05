@@ -8,6 +8,8 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
+Quelle dieses Buches: http://www.gutenberg.org/files/31537/31537-h/31537-h.htm
+
 ## Grundbegriffe
 
 ### Was muß jede Hausfrau von der Chemie der Nahrungsmittel wissen?
