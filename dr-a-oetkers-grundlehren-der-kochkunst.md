@@ -1,5 +1,5 @@
-<!-- TITLE: Dr A Oetkers Grundlehren Der Kochkunst -->
+<!-- TITLE: Dr A Oetkers Grundlehren der Kochkunst -->
 <!-- SUBTITLE: A quick summary of Dr A Oetkers Grundlehren Der Kochkunst -->
 
-# Header
-
+# Dr A Oetkers Grundlehren der Kochkunst
+## Was muß jede Hausfrau von der Chemie der Nahrungsmittel wissen?
